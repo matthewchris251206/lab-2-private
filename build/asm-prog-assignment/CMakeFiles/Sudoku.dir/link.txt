@@ -1,0 +1,1 @@
+riscv32-unknown-elf-gcc -march=rv32i -mabi=ilp32 -ffreestanding -fno-builtin -Wall -Werror  -march=rv32i -nostartfiles -nostdlib -static -nostdlib -nostartfiles -static -T/home/ubuntu/workspace/lab-2-matthewchris251206/src/link.ld CMakeFiles/Sudoku.dir/sudoku.c.o CMakeFiles/Sudoku.dir/sudoku.S.o ../src/CMakeFiles/startup.dir/start.S.o -o Sudoku  ../src/libbase.a -lgcc 
