@@ -1,0 +1,2 @@
+riscv32-unknown-elf-ar qc libbase.a CMakeFiles/base.dir/basic.c.o CMakeFiles/base.dir/print.c.o CMakeFiles/base.dir/memory.c.o
+/usr/bin/ranlib libbase.a

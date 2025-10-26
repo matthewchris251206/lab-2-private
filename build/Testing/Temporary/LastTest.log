@@ -1,0 +1,37 @@
+Start testing: Oct 26 12:03 CST
+----------------------------------------------------------
+1/2 Testing: MergeSortTester
+1/2 Test: MergeSortTester
+Command: "/home/ubuntu/workspace/lab-2-matthewchris251206/build/tests/GeneralReturnValueChecker" "/home/ubuntu/workspace/lab-2-matthewchris251206/build/asm-prog-assignment/ArraySort"
+Directory: /home/ubuntu/workspace/lab-2-matthewchris251206/build/tests
+"MergeSortTester" start time: Oct 26 12:03 CST
+Output:
+----------------------------------------------------------
+MMIO search failed! The requested address is: 0xfffffff7, length is: 1, failure at /home/ubuntu/workspace/lab-2-matthewchris251206/iss/src/mem_map.c:81/MemoryMap_generic_store()
+GeneralReturnValueChecker: /home/ubuntu/workspace/lab-2-matthewchris251206/iss/src/mem_map.c:81: MemoryMap_generic_store: Assertion `mmap_unit_ptr != ((void *)0)' failed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"MergeSortTester" end time: Oct 26 12:03 CST
+"MergeSortTester" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: SudokuSolverTester
+2/2 Test: SudokuSolverTester
+Command: "/home/ubuntu/workspace/lab-2-matthewchris251206/build/tests/GeneralReturnValueChecker" "/home/ubuntu/workspace/lab-2-matthewchris251206/build/asm-prog-assignment/Sudoku"
+Directory: /home/ubuntu/workspace/lab-2-matthewchris251206/build/tests
+"SudokuSolverTester" start time: Oct 26 12:03 CST
+Output:
+----------------------------------------------------------
+[LOG MESSAGE] Initialize Program Counter: 0x000008fc
+[LOG MESSAGE] Load a lodable segment with p_paddr 0x00000000, p_memsz 0x0000097d and p_filesz: 0x0000097d
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SudokuSolverTester" end time: Oct 26 12:03 CST
+"SudokuSolverTester" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 26 12:03 CST
