@@ -1,2 +1,0 @@
-/usr/bin/ar qc libiss.a CMakeFiles/iss.dir/iss.c.o CMakeFiles/iss.dir/core.c.o CMakeFiles/iss.dir/main_mem.c.o CMakeFiles/iss.dir/rom.c.o CMakeFiles/iss.dir/halt.c.o CMakeFiles/iss.dir/text_buffer.c.o CMakeFiles/iss.dir/mem_map.c.o CMakeFiles/iss.dir/load_elf.c.o CMakeFiles/iss.dir/tick.c.o CMakeFiles/iss.dir/abstract_mem.c.o
-/usr/bin/ranlib libiss.a
