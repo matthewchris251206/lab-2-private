@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/GeneralReturnValueChecker.dir/general_return_value_checker.c.o -o GeneralReturnValueChecker  ../iss/src/libiss.a 
